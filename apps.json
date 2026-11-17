@@ -1,1 +1,10 @@
-
+[
+  {
+    "file": "WinCustom.html",
+    "name": "WinCustom",
+    "cat": "Персонализация",
+    "desc": "Большая кастомизация Windows: Material 3, Fluent, Liquid Glass, Bento UI. Темы, акценты, обои, радиус окон, стекло и панель задач — прямо из приложения.",
+    "ver": "1.0",
+    "icon": "WinCustom-icon.svg"
+  }
+] 
